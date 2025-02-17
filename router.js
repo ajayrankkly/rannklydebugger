@@ -6,6 +6,7 @@ if (path.endsWith('index.html')) {
 }
 //comeet
 //comeet 2
+//comeet 3
 
 // Always have a trailing slash
 if (!path.endsWith('/')) {
