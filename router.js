@@ -5,6 +5,7 @@ if (path.endsWith('index.html')) {
   path = path.substring(0, path.length - 'index.html'.length);
 }
 //comeet
+//comeet 2
 
 // Always have a trailing slash
 if (!path.endsWith('/')) {
