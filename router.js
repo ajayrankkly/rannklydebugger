@@ -4,6 +4,7 @@ let path = location.pathname;
 if (path.endsWith('index.html')) {
   path = path.substring(0, path.length - 'index.html'.length);
 }
+//comeet
 
 // Always have a trailing slash
 if (!path.endsWith('/')) {
